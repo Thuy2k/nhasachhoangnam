@@ -1,0 +1,24 @@
+@media (min-width: 576px) {}
+
+@media (min-width: 768px) {
+    .nav-1 {
+        height: 100px;
+    }
+    .mua-danh-muc {
+        position: absolute;
+        bottom: 20px;
+        left: 20px;
+    }
+    ul#main-menu {
+        display: flex;
+    }
+    #navbar-toggle {
+        display: none;
+    }
+}
+
+@media (min-width: 992px) {}
+
+@media (min-width: 1200px) {}
+
+@media (min-width: 1400px) {}
